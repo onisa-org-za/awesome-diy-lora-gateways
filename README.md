@@ -6,3 +6,4 @@
 # RAK831
 * [RAK831 LoRaWAN Gateway with a Raspberry Pi Zero (project)](https://www.youtube.com/watch?v=wnHwWGqUUyc) - YouTube video by Andreas Spiess using [PCB](https://pcbs.io/share/4qKoO) by Charles Hallard. 
 * [Raspberry PI Zero RAK831 Lora Gateway Shield](https://github.com/hallard/RAK831-Zero) - Charles Hallard's instructions, including GPS, RTC, and his custom PCB. 
+* [Lora Gateway base setup for SX1301 based concentrators](https://github.com/ch2i/LoraGW-Setup) - Detailed instructions and tips for concentrator and Raspberry PI. 
