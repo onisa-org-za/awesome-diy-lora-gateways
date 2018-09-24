@@ -10,4 +10,5 @@
 
 # Single Channel Gateway
 * [RasPi, RFM95, jumper wires (Chris Samuelson)](https://www.hackster.io/ChrisSamuelson/lora-raspberry-pi-single-channel-gateway-cheap-d57d36) - The mother of SCGs. 
+* [SCG Collection Part 1](https://www.thethingsnetwork.org/forum/t/single-channel-gateway-part-1/798/213), [Part 2](https://www.thethingsnetwork.org/forum/t/single-channel-gateway-part-2/5999), [Part 3](https://www.thethingsnetwork.org/forum/t/single-channel-gateway-part-3/11546) - Postings in TTN forum
 * [The future of single-channel gateways (Meta)](https://www.thethingsnetwork.org/forum/t/the-future-of-single-channel-gateways/6590) - Discussion with Core Team. Usefulness and caveats of SCG. 
